@@ -40,7 +40,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/fundamentals/Demo.c|src/fundamentals/Variables.c|src/Hello.c|cute.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/fundamentals/Goto.c|src/fundamentals/Demo.c|src/fundamentals/Variables.c|src/Hello.c|cute.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -85,7 +85,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/fundamentals/Demo.c|src/fundamentals/Variables.c|src/Hello.c|cute.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/fundamentals/Goto.c|src/fundamentals/Demo.c|src/fundamentals/Variables.c|src/Hello.c|cute.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
