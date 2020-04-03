@@ -40,7 +40,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/fundamentals/Goto.c|src/fundamentals/Demo.c|src/fundamentals/Variables.c|src/Hello.c|cute.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/array/SumOfRowsColsInMatrixArry.c|src/array/3DArray1.c|src/array/3DArray.c|src/array/2DFirstApp.c|src/array/sizeof.c|src/pointer/DoublePointer.c|src/pointer/ArrayToPointer.c|src/pointer/FunctionToPointer.c|src/pointer/ArithmeticPointer.c|src/pointer/FindOutput.c|src/pointer/SwapTwoNum.c|src/pointer/PointerFirstApp.c|src/array/SecondLargestNumber.c|src/array/Sorting.c|src/array/FirstApp.c|src/functions/CallByReference.c|src/functions/CallByValue.c|src/functions/CalculateMaths.c|src/functions/PrintName.c|src/fundamentals/Goto.c|src/fundamentals/Demo.c|src/fundamentals/Variables.c|src/Hello.c|cute.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -85,7 +85,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/fundamentals/Goto.c|src/fundamentals/Demo.c|src/fundamentals/Variables.c|src/Hello.c|cute.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/array/SumOfRowsColsInMatrixArry.c|src/array/3DArray1.c|src/array/3DArray.c|src/array/2DFirstApp.c|src/array/sizeof.c|src/pointer/DoublePointer.c|src/pointer/ArrayToPointer.c|src/pointer/FunctionToPointer.c|src/pointer/ArithmeticPointer.c|src/pointer/FindOutput.c|src/pointer/SwapTwoNum.c|src/pointer/PointerFirstApp.c|src/array/SecondLargestNumber.c|src/array/Sorting.c|src/array/FirstApp.c|src/functions/CallByReference.c|src/functions/CallByValue.c|src/functions/CalculateMaths.c|src/functions/PrintName.c|src/fundamentals/Goto.c|src/fundamentals/Demo.c|src/fundamentals/Variables.c|src/Hello.c|cute.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
